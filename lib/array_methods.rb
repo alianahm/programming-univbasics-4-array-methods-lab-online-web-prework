@@ -5,7 +5,7 @@ end
 def using_sort(array)
    array = ["wow", "I", "am", "realy", "learning", "arrays!"]
    using_sort.array
-end
+ end
 
 def using_reverse(array)
 
