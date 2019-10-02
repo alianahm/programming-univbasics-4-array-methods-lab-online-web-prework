@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  expect(using_sort(array).last).to eq("wow")
+  
 end
 
 def using_reverse(array)
